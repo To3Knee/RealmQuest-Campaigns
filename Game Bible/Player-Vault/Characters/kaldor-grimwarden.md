@@ -1,15 +1,17 @@
-# Kaldor "Grim" Grimwarden
+# ⚔️ Kaldor "Grim" Grimwarden
+**Level 3 Human Eldritch Fighter**
 
-**Basic Info**
-* **Race:** Human
-* **Age:** Early 30s
-* **Height:** 6'0"
-* **Look:** Long black braided hair, athletic build, travel-worn gear.
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 16 (+3) | 14 (+2) | 15 (+2) | 12 (+1) | 10 (+0) | 8 (-1) |
 
-**Attributes**
-* **Primary Path:** Eldritch Fighter (Mastery of blades with a suppressed magical bloodline).
-* **The Family Crest:** A bound necklace that acts as a magical focus. It is lethal to "Filth-Marked" individuals and causes intense pain/burning to anyone other than Kaldor who attempts to touch it.
+**Armor Class:** 16 | **Initiative:** +2 | **Speed:** 30ft
+**Hit Points:** 28 / 28 | **Hit Dice:** 3d10
 
-**Status**
-* **Current Location:** Oakhaven, The Whispering Anvil.
-* **Current Objective:** Investigate the "screaming" portal rumors to see if they link to the Collision Stone.
+### 🛡️ Actions
+* **Longsword:** +5 to hit, 1d8+3 slashing (Versatile 1d10).
+* **Second Wind:** Regain 1d10+3 HP (1/Short Rest).
+
+### ✨ Bloodline (The Crest)
+* **Suppressed Pulse:** Passive sense for Filth-marked creatures.
+* **Crest Burn:** Reaction; 2d6 Radiant damage to attackers touching the necklace.
